@@ -37,32 +37,32 @@
 Screenshots:
 
 - Main Menu
-![image](https://user-images.githubusercontent.com/112575790/232672476-f20c9bba-7929-4f07-9cf2-fdc1e1884da3.png)
+- ![image](https://user-images.githubusercontent.com/112575790/232672476-f20c9bba-7929-4f07-9cf2-fdc1e1884da3.png)
 
 - Read Infix Expression + Non-balanced Parentheses
-![image](https://user-images.githubusercontent.com/112575790/232672760-fcb8fbd3-0e02-4738-97be-38cfce6c6629.png)
+- ![image](https://user-images.githubusercontent.com/112575790/232672760-fcb8fbd3-0e02-4738-97be-38cfce6c6629.png)
 
 - Read Infix Expression + Balanced Parentheses + Output Postfix Expression
-![image](https://user-images.githubusercontent.com/112575790/232672982-b8777d70-1e89-4286-b85b-fcfd460c2906.png)
+- ![image](https://user-images.githubusercontent.com/112575790/232672982-b8777d70-1e89-4286-b85b-fcfd460c2906.png)
 
 - Queue Menu
-![image](https://user-images.githubusercontent.com/112575790/232673069-5475299c-1680-42b7-bfea-f563ef58fc19.png)
+- ![image](https://user-images.githubusercontent.com/112575790/232673069-5475299c-1680-42b7-bfea-f563ef58fc19.png)
 
 - Push
-![image](https://user-images.githubusercontent.com/112575790/232673296-2386af37-1d7e-4507-807d-a131d065b6e8.png)
+- ![image](https://user-images.githubusercontent.com/112575790/232673296-2386af37-1d7e-4507-807d-a131d065b6e8.png)
 
 - Pop
-![image](https://user-images.githubusercontent.com/112575790/232673360-21a88550-73ac-41a9-90df-fc91d4b83d01.png)
+- ![image](https://user-images.githubusercontent.com/112575790/232673360-21a88550-73ac-41a9-90df-fc91d4b83d01.png)
 
 - Front
-![image](https://user-images.githubusercontent.com/112575790/232673451-635238c8-05be-413f-a233-98802dd1d099.png)
+- ![image](https://user-images.githubusercontent.com/112575790/232673451-635238c8-05be-413f-a233-98802dd1d099.png)
 
 - Empty
-![image](https://user-images.githubusercontent.com/112575790/232673527-13771c58-74ea-4f35-bdd3-8397c8758a38.png)
-![image](https://user-images.githubusercontent.com/112575790/232673617-28553317-c729-49e1-a9ca-09bb9a749a85.png)
+- ![image](https://user-images.githubusercontent.com/112575790/232673527-13771c58-74ea-4f35-bdd3-8397c8758a38.png)
+- ![image](https://user-images.githubusercontent.com/112575790/232673617-28553317-c729-49e1-a9ca-09bb9a749a85.png)
 
 - Size
-![image](https://user-images.githubusercontent.com/112575790/232673576-4154dc05-3f21-42ae-a244-8bb80b852383.png)
+- ![image](https://user-images.githubusercontent.com/112575790/232673576-4154dc05-3f21-42ae-a244-8bb80b852383.png)
 
 
 
