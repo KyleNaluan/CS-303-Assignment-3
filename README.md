@@ -19,7 +19,7 @@
 - This program starts by opening a main menu to the user with 3 options:
 
   - Convert infix expression to postfix
-    - This function handles input for an expression
+    - This function handles input for an infix expression
     - It checks if the parentheses are balanced, then converts the expression to postfix if they are
     - Displays postfix expression to user
     
